@@ -2,9 +2,12 @@
 
 Welcome to the QR Code Event Check-In System! This Android application provides a solution for event organizers and attendees to manage event check-ins. 
 
-
 ### Description
 The QR Code Event Check-In System is designed to simplify event management for both organizers and attendees. Organizers can create events, generate unique QR codes for check-ins, track attendance, send notifications, and upload event posters. Attendees can quickly check into events by scanning QR codes, receive important updates, and view event details within the app.
+
+
+### How to run:
+You can use your own android device or a virtual android emulator (Android Studios, Intellij) to run the app.
 
 ### Features
 QR Code Scanning: Attendees can scan event-specific QR codes for quick check-ins.
@@ -47,5 +50,8 @@ Remove events, profiles, and images.
 Browse events, profiles, and images.
 
 
-License
+
+
+
+### License
 This project is licensed under the Apache License.
